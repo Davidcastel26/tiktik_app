@@ -14,7 +14,7 @@ export default{
       type:'file',
       options:{
         hotspot: true,
-      },
+      }, 
     },
     {
       name: 'userId',
