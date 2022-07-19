@@ -9,7 +9,15 @@ import { IoMdAdd } from 'react-icons/io'
 
 const Navbar = () => {
   return (
-    <div>Navbar</div>
+    <div>
+      <Link>
+        <div>
+          <Image
+           className="cursor-pointer"
+          />
+        </div>
+      </Link>
+    </div>
   )
 }
 
